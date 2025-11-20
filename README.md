@@ -1,2 +1,5 @@
 # Final-Project-2025
 Tugas akhir S1 saya pada program studi Teknik Fisika, Institut Teknologi Bandung
+PERANCANGAN SISTEM KONTROL BERBASIS SINYAL 
+ELEKTROMIOGRAFI (EMG) PADA SOFT ROBOTIC GLOVES 
+UNTUK REPETITIVE TASK PRACTICE 
